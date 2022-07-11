@@ -1,0 +1,12 @@
+# Alguns comandos básicos do git bash
+
+### git add . ( **adiciona uma alteração no diretório ativo à área de staging**)
+
+### git commit -m "exemplo(inclusão das anotações do curso de Gith/GitHub)" **serve para comitar **
+
+### git push origin main (colocar o repositório no servidor(site do github))
+
+### git clone (link do repositório)
+
+### git status (para ver o status do git)
+

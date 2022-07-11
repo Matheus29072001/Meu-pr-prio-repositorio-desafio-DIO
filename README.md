@@ -1,1 +1,1 @@
-# Meu-pr-prio-repositorio-desafio-DIO
+# Meu-proprio-repositorio-desafio-DIO
